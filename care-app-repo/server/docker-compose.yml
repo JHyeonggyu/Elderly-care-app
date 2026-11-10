@@ -1,0 +1,7 @@
+services:
+  care-server:
+    build: .
+    image: care-app-server:latest
+    ports:
+      - "8000:8000"
+    restart: unless-stopped

@@ -1,0 +1,10 @@
+{
+  "name": "어르신 케어",
+  "short_name": "care_app",
+  "start_url": ".",
+  "display": "standalone",
+  "background_color": "#ffffff",
+  "theme_color": "#008080",
+  "description": "어르신 케어 앱",
+  "icons": []
+}

@@ -1,0 +1,4 @@
+# 학교컴(메인컴)에서 실행하는 클라이언트 의존성
+websockets==13.1
+requests==2.32.3
+opencv-python==4.10.0.84
